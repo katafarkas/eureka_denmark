@@ -1,8 +1,8 @@
 "use client";
 
 import Image from "next/image";
-import BACKGROUND from "../assets/images/background.png";
-import GRAPHIC from "../assets/images/graphics/flower_crystal_1.png";
+import BACKGROUND from "../../assets/images/background.png";
+import GRAPHIC from "../../assets/images/graphics/flower_crystal_1.png";
 
 const Hero = () => {
   return (

@@ -1,8 +1,8 @@
 "use client";
 
-import CRYSTALS from "../assets/images/crystals/crystals_1.jpg";
-import SWEATERS from "../assets/images/sweaters/sweaters_6.jpg";
-import HEALING from "../assets/images/healing/meditation_3.png";
+import CRYSTALS from "../../assets/images/crystals/crystals_1.jpg";
+import SWEATERS from "../../assets/images/sweaters/sweaters_6.jpg";
+import HEALING from "../../assets/images/healing/meditation_3.png";
 import Image from "next/image";
 
 const About = () => {

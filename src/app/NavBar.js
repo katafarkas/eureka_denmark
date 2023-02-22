@@ -4,7 +4,7 @@ import { Disclosure, Menu, Transition } from "@headlessui/react";
 import { Bars3Icon, BellIcon, XMarkIcon } from "@heroicons/react/24/outline";
 import Logo from "../assets/images/logo_1.png";
 import Image from "next/image";
-import LangSelector from "./LangSelector";
+import LangSelector from "./Components/LangSelector";
 import MobileMenu from "./MobileMenu";
 
 const leftMenu = [

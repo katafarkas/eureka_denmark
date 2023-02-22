@@ -1,4 +1,4 @@
-import Products from "./Products";
+import Products from "./Components/Products";
 import IMG1 from "../assets/images/crystals/crystals_2.jpg";
 
 const data = {
